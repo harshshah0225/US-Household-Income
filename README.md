@@ -6,12 +6,11 @@ This project involves cleaning and analyzing datasets related to US household in
 
 ## Table of Contents
 
-- [Overview](https://github.com/harshshah0225/US-Household-Income/edit/main/README.md#overview)
-- [Datasets](https://github.com/harshshah0225/US-Household-Income/edit/main/README.md#datasets)
-- [Data Cleaning Steps](https://github.com/harshshah0225/US-Household-Income/edit/main/README.md#data-cleaning-steps)
-- [Exploratory Data Analysis](https://github.com/harshshah0225/US-Household-Income/edit/main/README.md#exploratory-data-analysis)
-- [Usage](https://github.com/harshshah0225/US-Household-Income/edit/main/README.md#usage)
-- [Conclusion](https://github.com/harshshah0225/US-Household-Income/edit/main/README.md#conclusion)
+- [Overview](https://github.com/harshshah0225/US-Household-Income/tree/main#overview)
+- [Datasets](https://github.com/harshshah0225/US-Household-Income/tree/main#datasets)
+- [Exploratory Data Analysis](https://github.com/harshshah0225/US-Household-Income/tree/main#exploratory-data-analysis)
+- [Usage](https://github.com/harshshah0225/US-Household-Income/tree/main#usage)
+- [Conclusion](https://github.com/harshshah0225/US-Household-Income/tree/main#conclusion)
 
 ## Datasets
 
